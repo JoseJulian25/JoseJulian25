@@ -1,10 +1,10 @@
-<h1 align="center">Hello, I'm Jose Julián Martínez 👋 </h1>
+<h1 align="center">Hello, I'm Jose Julián Martínez  </h1>
 <h3 align="center">A passionate Backend Developer and Computer Science Bachelor's Student</h3>
 <hr>
 
-- 🌱 Currently exploring **Angular and TypeScript.**
-- 💬 Ask me about **Backend Development**.
-- ⚒️ Love **building scalable systems** and **applying best software practices**..
+-  Currently exploring **Angular and TypeScript.**
+-  Ask me about **Backend Development**.
+-  Love **building scalable systems** and **applying best software practices**..
 ---
 
 ###  Technologies Stack
@@ -38,7 +38,7 @@
 
 ###  Featured Projects
 
-- **[E-commerce Microservices](https://github.com/josejulian25/e-commerce-microservices)** - Personal e-commerce project using microservices architecture with Java, Spring Boot, gRPC, Apache Kafka, Docker, etc.
+- **[E-commerce Microservices](https://github.com/josejulian25/e-commerce-app)** - Personal e-commerce project using microservices architecture with Java, Spring Boot, gRPC, Apache Kafka, Docker, etc.
 - **[Chat Online](https://github.com/josejulian25/chat-online)** - Real-time chat application using Spring Boot Websockets and JavaScript.
 - **[Carsharing](https://github.com/JoseJulian25/Carsharing)** - This project is a REST API developed in Spring boot. It is a project about vehicle rental.
 - **[To-Do List](https://github.com/JoseJulian25/AlmacenandoDatos)** - This is a To Do List developed in HTML, CSS and Javascript. 
