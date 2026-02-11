@@ -38,7 +38,7 @@
 ---
 
 ###  Featured Projects
-- **[TicTak](https://github.com/JoseJulian25/TicTak_App)** - "Personal follow-up task time using Next.js, Tailwind.css"
+- **[TicTak](https://github.com/JoseJulian25/TicTak_App)** - Personal follow-up task time using Next.js, Tailwind.css
 - **[E-commerce Microservices](https://github.com/josejulian25/e-commerce-app)** - Personal e-commerce project using microservices architecture with Java, Spring Boot, gRPC, Apache Kafka, Docker, etc.
 - **[Chat Online](https://github.com/josejulian25/chat-online)** - Real-time chat application using Spring Boot Websockets and JavaScript.
 - **[Carsharing](https://github.com/JoseJulian25/Carsharing)** - This project is a REST API developed in Spring boot. It is a project about vehicle rental.
