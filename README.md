@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Developer and Computer Science Bachelor's Student</h3>
 <hr>
 
--  Currently exploring **Angular and TypeScript.**
+-  Currently exploring **Next.js**
 -  Ask me about **Backend Development**.
 -  Love **building scalable systems** and **applying best software practices**..
 ---
@@ -17,11 +17,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
+
 
 </p>
 
@@ -37,7 +38,7 @@
 ---
 
 ###  Featured Projects
-
+- **[TicTak](https://github.com/JoseJulian25/TicTak_App)** - "Personal follow-up task time using Next.js, Tailwind.css"
 - **[E-commerce Microservices](https://github.com/josejulian25/e-commerce-app)** - Personal e-commerce project using microservices architecture with Java, Spring Boot, gRPC, Apache Kafka, Docker, etc.
 - **[Chat Online](https://github.com/josejulian25/chat-online)** - Real-time chat application using Spring Boot Websockets and JavaScript.
 - **[Carsharing](https://github.com/JoseJulian25/Carsharing)** - This project is a REST API developed in Spring boot. It is a project about vehicle rental.
